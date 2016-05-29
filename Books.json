@@ -1,6 +1,7 @@
 [{"AUTH":"A.A. Milne","PUB":"Dutton Juvenile","PUBDATE":"1992","FORMAT":"Hardcover","LANG":"English","BOOK":"When We Were Very Young"},
 {"AUTH":"A.A. Milne","PUB":"Dutton Juvenile","PUBDATE":"1991","FORMAT":"Hardcover","LANG":"English","BOOK":"Winnie-the-Pooh"},
-{"AUTH":"A.A. Milne","PUB":"Dutton Juvenile","PUBDATE":"1992","FORMAT":"Hardcover","LANG":"English","BOOK":"Now We Are Six."},
+{"AUTH":"A.A. Milne","PUB":"Dutton Juvenile","PUBDATE":"1992","FORMAT":"Hardcover","LANG":"English","BOOK":"Now We Are Six"},
+{"AUTH":"A.A. Milne","PUB":"Dutton Juvenile","PUBDATE":"1988","FORMAT":"Hardcover","LANG":"English","BOOK":"The House at Pooh Corner"},
 {"AUTH":"Madeleine L'Engle","PUB":"Farrar, Straus and Giroux","PUBDATE":"1978","FORMAT":"Paperback","LANG":"English","BOOK":"A Swiftly Tilting Planet"},
 {"AUTH":"Madeleine L'Engle","PUB":"Dell Publishing","PUBDATE":"1962","FORMAT":"Paperback","LANG":"English","BOOK":"A Wrinkle in Time"},
 {"AUTH":"Madeleine L'Engle","PUB":"Listening Library","PUBDATE":"1973","FORMAT":"Paperback","LANG":"English","BOOK":"A Wind in the Door"},
@@ -9,4 +10,6 @@
 {"AUTH":"Madeleine L'Engle","PUB":"Laurel Leaf Library","PUBDATE":"1979","FORMAT":"Paperback","LANG":"English","BOOK":"The Arm of the Starfish"},
 {"AUTH":"Jean Little","PUB":"HarperTrophy","PUBDATE":"1973","FORMAT":"Paperback","LANG":"English","BOOK":"From Anna"},
 {"AUTH":"Jean Little","PUB":"Kids Can Press","PUBDATE":"1986","FORMAT":"Paperback","LANG":"English","BOOK":"Hey World, Here I Am!"},
-{"AUTH":"Jean Little","PUB":"Puffin","PUBDATE":"1996","FORMAT":"Paperback","LANG":"English","BOOK":"His Banner Over Me"}]
+{"AUTH":"Jean Little","PUB":"Puffin","PUBDATE":"1996","FORMAT":"Paperback","LANG":"English","BOOK":"His Banner Over Me"},
+{"AUTH":"Jean Little","PUB":"Puffin","PUBDATE":"1991","FORMAT":"Paperback","LANG":"English","BOOK":"Little By Little: A Writer's Education"},
+{"AUTH":"Jean Little","PUB":"Puffin","PUBDATE":"1989","FORMAT":"Paperback","LANG":"English","BOOK":"Mama's Going to Buy You a Mockingbird"}]
